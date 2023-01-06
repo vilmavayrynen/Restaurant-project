@@ -2,6 +2,8 @@
 Studio Flow on kuvitteellinen pilates-studion verkkosivut. Verkkotehtävä on toteutettu Haaga-Helian ammattikorkeakoulun Digitekniikat -kurssille.
 Sivusto tarjoaa kattavaa perustietoa aiheesta ja harrastemuodoista, joita studio tarjoaa. Lisäksi on listattu kuvitteelliset ohjaajat, hinnasto, sekä ajanvaraus- ja palautelomakkeet. Sivuston kautta pääsee seuraamaan aiheeseen liittyviä YouTube-videoita.
 
+Screenshots
+
 <img width="1440" alt="flow5" src="https://user-images.githubusercontent.com/96781698/211041719-116b412f-652f-4a76-94f0-23e101c7e718.png">
 <img width="1440" alt="flow1" src="https://user-images.githubusercontent.com/96781698/211041730-84658d81-3dfb-4e6f-9e79-86e2eaaf6397.png">
 <img width="1440" alt="flow2" src="https://user-images.githubusercontent.com/96781698/211041742-06173901-04a1-4c6d-b17a-c51d8d42e91c.png">
