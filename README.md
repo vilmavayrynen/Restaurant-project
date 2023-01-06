@@ -1,5 +1,5 @@
 # Studio-Flow
-Studio Flow on kuvitteellinen pilates-studion verkkosivut. Verkkotehtävä on toteutettu Haaga-Helian ammattikorkeakoulun Digitekniikat -kurssille.
+Studio Flow on kuvitteellisen pilates-studion verkkosivut. Verkkotehtävä on toteutettu Haaga-Helian ammattikorkeakoulun Digitekniikat -kurssille.
 Sivusto tarjoaa kattavaa perustietoa aiheesta ja harrastemuodoista, joita studio tarjoaa. Lisäksi on listattu kuvitteelliset ohjaajat, hinnasto, sekä ajanvaraus- ja palautelomakkeet. Sivuston kautta pääsee seuraamaan aiheeseen liittyviä YouTube-videoita.
 
 Screenshots
