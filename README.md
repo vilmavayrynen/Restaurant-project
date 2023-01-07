@@ -4,8 +4,8 @@ Sivusto tarjoaa kattavaa perustietoa aiheesta ja harrastemuodoista, joita studio
 
 Screenshots
 
-<img width="1440" alt="flow5" src="https://user-images.githubusercontent.com/96781698/211041719-116b412f-652f-4a76-94f0-23e101c7e718.png">
-<img width="1440" alt="flow1" src="https://user-images.githubusercontent.com/96781698/211041730-84658d81-3dfb-4e6f-9e79-86e2eaaf6397.png">
-<img width="1440" alt="flow2" src="https://user-images.githubusercontent.com/96781698/211041742-06173901-04a1-4c6d-b17a-c51d8d42e91c.png">
-<img width="1440" alt="flow3" src="https://user-images.githubusercontent.com/96781698/211041759-ef9c9a9f-69e9-46c0-8e15-d626ac235d40.png">
-<img width="1440" alt="flow4" src="https://user-images.githubusercontent.com/96781698/211041775-4d6cb237-73a0-4a49-8bd2-2ce1ff8e8971.png">
+<img width="1440" alt="Näyttökuva 2023-1-7 kello 11 19 26" src="https://user-images.githubusercontent.com/96781698/211143496-6a294c5e-eb27-4346-b026-6e498fdb381a.png">
+<img width="1440" alt="Näyttökuva 2023-1-7 kello 11 20 47" src="https://user-images.githubusercontent.com/96781698/211143509-b618cf56-79fb-4bac-939d-dcbcd06bd790.png">
+<img width="1440" alt="Näyttökuva 2023-1-7 kello 11 21 05" src="https://user-images.githubusercontent.com/96781698/211143520-ead0df62-6c5e-4e96-bef7-013d9a088e9b.png">
+<img width="1440" alt="Näyttökuva 2023-1-7 kello 11 21 27" src="https://user-images.githubusercontent.com/96781698/211143523-adba0d3d-5de2-44c0-98fa-50bf5d4de8b9.png">
+<img width="1440" alt="Näyttökuva 2023-1-7 kello 11 21 41" src="https://user-images.githubusercontent.com/96781698/211143525-09bfd993-8b63-4195-8889-d2b6056180cc.png">
